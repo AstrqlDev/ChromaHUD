@@ -11,3 +11,6 @@ How to use?
 - Start up your minecraft
 
 - Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy. 
+
+Download
+- https://github.com/AstrqlDev/ChromaHud/releases/tag/Release
