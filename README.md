@@ -1,6 +1,6 @@
 # ChromaHud
 
-REGARDING SKYTILS USERS: https://imgur.com/a/N8ckKlD <---
+**REGARDING SKYTILS USERS: https://imgur.com/a/N8ckKlD <--- (VERY IMPORTANT!! PLEASE READ) <---**
 
 ChromaHud, also know as Cheeto includes many Skyblock QOL features such as Secret Aura, Fairy Soul Aura, many Dungeon related features, macros, and more!
 
