@@ -1,6 +1,6 @@
 # ChromaHud
 
-ChromaHud, also know as Cheeto includes many Skyblock QOL features such as Secret Aura, Fairy Soul Aura, many Dungeon related features, macros, and more!
+ChromaHud, also know as Cheeto Client includes many Skyblock QOL features such as Secret Aura, Fairy Soul Aura, many Dungeon related features, macros, and more!
 
 How to use?
 - Press the windows key, and r at the same time
